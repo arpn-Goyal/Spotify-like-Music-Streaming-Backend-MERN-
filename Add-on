@@ -12,3 +12,19 @@ app.use((err, req, res, next) => {
     message: err.message
   });
 });
+
+--------------
+
+🧠 Small Backend Improvement (Important)
+
+Your route currently:
+
+GET /api/music
+
+Later we will add:
+
+GET /api/music/:id
+GET /api/music/artist/:id
+GET /api/music/search
+
+So your route structure is already good for scaling.
