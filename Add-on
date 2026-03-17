@@ -1,4 +1,23 @@
+{
+    "username": "arijit",
+    "email": "arijit@gmail.com",
+    "password": "hashed_password_here",
+    "role": "Artist"
+  },
+  {
+    "username": "shreya",
+    "email": "shreya@gmail.com",
+    "password": "hashed_password_here",
+    "role": "Artist"
+  },
+  {
+    "username": "weeknd",
+    "email": "weeknd@gmail.com",
+    "password": "hashed_password_here",
+    "role": "Artist"
+  }
 
+---------------------------------------------
 One Small Improvement You Can Add
 
 When testing APIs, also document them.
